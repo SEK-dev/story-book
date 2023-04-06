@@ -81,6 +81,7 @@
     "chromatic": "^6.17.2",
     "msw": "^0.42.0",
     "msw-storybook-addon": "^1.6.3",
+    "node-sass": "^8.0.0",
     "prop-types": "^15.8.1",
     "webpack": "^5.73.0"
   },
